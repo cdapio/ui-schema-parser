@@ -61,8 +61,8 @@
     "node-libs-browser": "2.0.0",
     "tmp": "0.0.29",
     "uglifyjs-webpack-plugin": "^2.1.1",
-    "webpack": "^4.29.3",
-    "webpack-cli": "^3.2.3"
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
   },
   "author": {
     "name": "Matthieu Monsch",
